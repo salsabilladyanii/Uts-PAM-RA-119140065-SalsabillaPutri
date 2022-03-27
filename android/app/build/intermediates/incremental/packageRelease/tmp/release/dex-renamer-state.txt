@@ -1,0 +1,7 @@
+#Sun Mar 27 05:56:57 ICT 2022
+base.1=D\:\\DOKUMEN\\Coding\\PAMUTS\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\DOKUMEN\\Coding\\PAMUTS\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
